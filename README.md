@@ -2,9 +2,9 @@
 
 Welcome to my data science porfolio! Please visit my [LinkedIn profile](https://www.linkedin.com/in/lauralyns/) for more information about me and my educational and experiental background. 
 
-+ [Recent Experience]([#recent-experience]): Recent work related experience in Data Science.
++ [Recent Experience]([#recent-experience): Recent work related experience in Data Science.
 + [Personal Projects](#personal-projects): Toy projects to showcase techniques and problem solving.
-+ [Master's Projects](#master's-projects): Collaboratory and personal projects from Applied Data Science Master's at University of Michigan.
++ [Master's Projects](#masters-projects): Collaboratory and personal projects from Applied Data Science Master's at University of Michigan.
 
 ## Recent Experience
 
