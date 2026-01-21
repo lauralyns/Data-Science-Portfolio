@@ -20,7 +20,7 @@ Welcome to my data science porfolio! Please visit my [LinkedIn profile](https://
 
 ### Library of Congress Project. 
 
-SVM | APIs | Cosine Similarity | EDA | Visualizations
+APIs | Similarity Metrics | EDA | Visualizations
 
 This projects grew out of a collaborative Alternative Spring Break project with the Library of Congress. I wanted to dig into the data more, and create a new way of visualizing search results in a new way using cosine similarity to group search results in relation to their focus. 
 
@@ -45,7 +45,7 @@ Generative AI | LLM | NLP | Retrieval Augmented Generation (RAG) | Gaussian NB |
 
 ### Milestone II: Predicting Natural Gas Consumption
 
-KNN Clustering | Time Series Forecasting | Times Series Analysis | Gaussian Naive Bayes | Random Forest | Geospatial Data | Supervised & Unsupervised Machine Learning
+KNN Clustering | Time Series | Gaussian Naive Bayes | Random Forest | Geospatial Data | Supervised & Unsupervised Machine Learning
 
 + Collaborated with 2 other students to create natural gas consumption predictive models including Random Forest, KNN, and GNB. 
 + Created, trained, and evaluated models combining time series data with NOAA data and unsupervised clustering results as features.
