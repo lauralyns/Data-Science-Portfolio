@@ -2,9 +2,9 @@
 
 Welcome to my data science porfolio! Please visit my LinkedIn profile for more information about me and my educational and experiental background. 
 
-Recent Focus: Recent work related experience in Data Science.
-Personal Projects: Toy projects to showcase techniques and problem solving style.
-Master's Projects: Collaboratory and personal projects from Applied Data Science Master's at University of Michigan.
++ Recent Focus: Recent work related experience in Data Science.
++ Personal Projects: Toy projects to showcase techniques and problem solving style.
++ Master's Projects: Collaboratory and personal projects from Applied Data Science Master's at University of Michigan.
 
 ## Recent Focus
 
