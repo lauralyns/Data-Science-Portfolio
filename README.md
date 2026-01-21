@@ -1,16 +1,14 @@
 # Lauralyn Curry-Leech - Data Science Portfolio
 
-Welcome to my data science porfolio! Please visit my LinkedIn profile for more information about me and my educational and experiental background. 
+Welcome to my data science porfolio! Please visit my [LinkedIn profile](https://www.linkedin.com/in/lauralyns/) for more information about me and my educational and experiental background. 
 
-+ Recent Focus: Recent work related experience in Data Science.
-+ Personal Projects: Toy projects to showcase techniques and problem solving style.
-+ Master's Projects: Collaboratory and personal projects from Applied Data Science Master's at University of Michigan.
++ [Recent Experience](#recent_experience): Recent work related experience in Data Science.
++ [Personal Projects](#personal_projects): Toy projects to showcase techniques and problem solving.
++ [Master's Projects](#master's_projects): Collaboratory and personal projects from Applied Data Science Master's at University of Michigan.
 
-## Recent Focus
+## Recent Experience
 
 ### Focus for Democracy
-
-
 
 + Led full-cycle data projects to optimize engagement and strategy at nonprofit, from cleaning and validation to modeling.
 + Engineered reusable SQL and Python data pipelines to automate processes and enable rapid analysis for time-sensitive decisions.
@@ -31,7 +29,7 @@ This projects grew out of a collaborative Alternative Spring Break project with 
 + Built customized visualizations with Altair
 + Worked with LOC API to create dynamic search results
 
-[Library of Congress Project] (https://github.com/lauralyns/LOC)
+[Library of Congress Project](https://github.com/lauralyns/LOC)
 
 ## Master's Projects
 
@@ -43,6 +41,8 @@ Generative AI | LLM | NLP | Retrieval Augmented Generation (RAG) | Gaussian NB |
 + Trained and evaluated multiple models (NLP models and OpenAI-based LLM) to parse user input into structured API calls.
 + Used LangChain and LangGraph to assess model quality, improving retrieval accuracy and data consistency for RAG pipelines.
 
+[National Park LLM-based Chatbot](https://github.com/nblakkanesser/MADS_Capstone)
+
 ### Milestone II: Predicting Natural Gas Consumption
 
 KNN Clustering | Time Series Forecasting | Times Series Analysis | Gaussian Naive Bayes | Random Forest | Geospatial Data | Supervised & Unsupervised Machine Learning
@@ -51,7 +51,7 @@ KNN Clustering | Time Series Forecasting | Times Series Analysis | Gaussian Naiv
 + Created, trained, and evaluated models combining time series data with NOAA data and unsupervised clustering results as features.
 + Conducted exploratory data analysis to identify patterns and understand modeling results to help improve future strategy.
 
-[Milestone II Project] (https://github.com/nblakkanesser/MADS_Milestone2)
+[Predicting Natural Gas Consumption](https://github.com/nblakkanesser/MADS_Milestone2)
 
 ### Milestone I: Effect of Sea Lever Rise on Mortgage Prices
 
@@ -63,7 +63,7 @@ A look at the effect of Sea Level Rise on Mortgage prices compared to FEMA high 
 + Conducted data cleaning and exploratory data analysis on geospatial sea level rise data.
 + Worked with geospatial data and geopandas to create data visualizations and choropleth maps based on different sea level rise scenarios, and categorizing census tracts as coastal and FEMA risk zones for ensuing mortgage price comparisons.
 
-[Milestone I Project] (https://github.com/lauralyns/Milestone1)
+[Effect of Sea Lever Rise on Mortgage Prices](https://github.com/lauralyns/Milestone1)
 
 
 
